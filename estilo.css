@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap');
 body{
     background-color: green;
     color: black;
@@ -5,7 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0;
-}
+}font-family: "Playwrite US Modern", cursive;
 button{
       background-color: whitesmoke;
       color: black;
